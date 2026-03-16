@@ -1,0 +1,7 @@
+/.vs
+/BootstrapperClient/bin
+/BootstrapperClient/obj
+/Bootstrapper/bin
+/Bootstrapper/obj
+/ClientShared/out/build
+/vcpkg_installed

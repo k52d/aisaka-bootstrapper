@@ -1,0 +1,11 @@
+{
+  "name": "aisaka-bootstrapper",
+  "version": "26.3.0.0",
+  "dependencies": [
+	  "boost-asio",
+	  "boost-thread",
+	  "boost-lexical-cast",
+	  "boost-foreach",
+	  "boost-property-tree"
+  ]
+}
